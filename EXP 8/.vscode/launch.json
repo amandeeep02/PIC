@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Jaspreet/Desktop/PIC/Exericise",
-      "program": "c:/Users/Jaspreet/Desktop/PIC/Exericise/build/Debug/outDebug",
+      "cwd": "c:/Users/Jaspreet/Desktop/PIC/EXP 8",
+      "program": "c:/Users/Jaspreet/Desktop/PIC/EXP 8/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
