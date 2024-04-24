@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Jaspreet/Desktop/PIC/Practice",
-      "program": "c:/Users/Jaspreet/Desktop/PIC/Practice/build/Debug/outDebug",
+      "cwd": "c:/Users/Jaspreet/Desktop/PIC/PYQs",
+      "program": "c:/Users/Jaspreet/Desktop/PIC/PYQs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
